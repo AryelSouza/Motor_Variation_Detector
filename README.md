@@ -1,6 +1,6 @@
 # Projeto Final: Monitor de Inteligência Artificial com STM32
 
-[![Demonstração no YouTube](https://img.shields.io/badge/YouTube-Video_de_Apresentacao-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](COLOQUE_O_LINK_DO_VIDEO_AQUI)
+[![Demonstração no YouTube](https://img.shields.io/badge/YouTube-Video_de_Apresentacao-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ysLtPMXzl_8)
 
 ## Autores
 * Kevin Ryan
